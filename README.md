@@ -1,9 +1,5 @@
 # WebScrapingPortalInmobiliario
 
-[TOCM]
-
-[TOC]
-
 ## Description
 
 ## How to use
