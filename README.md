@@ -2,6 +2,8 @@
 
 ## Description
 
+This tool will allow you to analyze your results in a simpler way. You will be able to see all the prices and square meters, search for the property that best meets your needs, and see the address. Additionally, you will be able to access a link to view photos and additional details.
+
 ## How to use
 
 ### Step 1
